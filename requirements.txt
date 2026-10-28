@@ -1,0 +1,3 @@
+openai>=1.0
+pypdf>=4.0
+pymupdf

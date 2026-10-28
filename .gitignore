@@ -1,0 +1,13 @@
+__pycache__/
+.venv/
+*.pdf
+*_report.md
+*_data.json
+Python_LLM/
+.DS_Store
+
+
+# Public example files may be shared (the confidential test.pdf stays ignored)
+!examples/*.pdf
+!examples/*_report.md
+!examples/*_data.json
